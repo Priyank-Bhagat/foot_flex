@@ -33,7 +33,7 @@ And the main thing I've implemented in this app is RazorPay to make payments and
 
 
 Just give this app a go, 
-👉[Download ]()👈The FootFlex App.
+👉[Download ](https://github.com/Priyank-Bhagat/foot_flex/blob/master/test/footflex.apk)👈The FootFlex App.
 
 
 
