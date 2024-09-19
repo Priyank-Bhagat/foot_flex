@@ -34,7 +34,7 @@ And the main thing I've implemented in this app is RazorPay to make payments and
 ## Download
 
 Just give this app a go, 
-👉[Download ](https://mega.nz/file/drlF3ZbQ#H_YXuWBvSXv51nEZq0ROfpg-tECO7yIRXFFpOCdZ9Lc)👈The FootFlex App.
+👉[Download ](https://drive.google.com/file/d/14nNtbMTHTMlnUhXDWu2NDbOTPRnaHALM/view?usp=sharing)👈The FootFlex App.
 
 
 
