@@ -25,7 +25,7 @@
 </p>
 
 And the main thing I've implemented in this app is RazorPay to make payments and make this app a complete eCommerce app.
-
+ 
 <p>
   <img width="200" src="https://github.com/Priyank-Bhagat/foot_flex/assets/115228605/576730fc-c374-4ea4-87d9-fa5076df247d" alt="something was here🤔">
 </p>
